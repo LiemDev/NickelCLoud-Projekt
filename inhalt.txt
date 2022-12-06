@@ -1,3 +1,0 @@
-ServerSmall: ||||||??
-ServerMedium: ||||||??
-ServerBig: ||||||
