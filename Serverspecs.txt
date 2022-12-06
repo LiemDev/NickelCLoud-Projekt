@@ -1,3 +1,0 @@
-ServerSmall: ||4||32768||4000?? 
-ServerMedium: ||8||65536||8000??
-ServerBig: ||16||131072||16000
